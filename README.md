@@ -1,5 +1,5 @@
 # comandos-de-git
-este repo solo aloja comando de git para su posterior conculta
+este repo solo aloja comando de git para su posterior consulta
 |Comandos de Git|
 |||
 |Guardar credenciales|Abrir una terminal (Control + Alt + T)	Tirar el siguiente comando:
